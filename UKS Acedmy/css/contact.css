@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+    font-family: 'popins';
+    font-size: 1em
+   
+        
+}
+
+h1 {
+    font-family: 'orbitron';
+    font-size: 2em;
+    text-align: left;
+    margin: 20px 0;
+    color: white;
+}
